@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello World3!" );
         System.out.println("master commit");
         System.out.println("hot-fix test");
+        System.out.println("add");
     }
 }
